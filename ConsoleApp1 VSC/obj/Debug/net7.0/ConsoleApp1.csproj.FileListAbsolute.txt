@@ -1,0 +1,15 @@
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\bin\Debug\net7.0\ConsoleApp1.exe
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\bin\Debug\net7.0\ConsoleApp1.deps.json
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\bin\Debug\net7.0\ConsoleApp1.dll
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\bin\Debug\net7.0\ConsoleApp1.pdb
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.dll
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\refint\ConsoleApp1.dll
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.pdb
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+E:\Programowanie\4.Nauka\c-sharp\ConsoleApp1 VSC\obj\Debug\net7.0\ref\ConsoleApp1.dll

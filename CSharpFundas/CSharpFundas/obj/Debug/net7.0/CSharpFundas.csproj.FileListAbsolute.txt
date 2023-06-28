@@ -1,0 +1,15 @@
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\bin\Debug\net7.0\CSharpFundas.exe
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\bin\Debug\net7.0\CSharpFundas.deps.json
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\bin\Debug\net7.0\CSharpFundas.runtimeconfig.json
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\bin\Debug\net7.0\CSharpFundas.dll
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\bin\Debug\net7.0\CSharpFundas.pdb
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.csproj.AssemblyReference.cache
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.AssemblyInfoInputs.cache
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.AssemblyInfo.cs
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.csproj.CoreCompileInputs.cache
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.dll
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\refint\CSharpFundas.dll
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.pdb
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\CSharpFundas.genruntimeconfig.cache
+E:\Programowanie\4.Nauka\c-sharp\CSharpFundas\CSharpFundas\obj\Debug\net7.0\ref\CSharpFundas.dll
