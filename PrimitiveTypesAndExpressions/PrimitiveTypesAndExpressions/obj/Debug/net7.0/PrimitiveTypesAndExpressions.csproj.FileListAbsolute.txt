@@ -1,0 +1,15 @@
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.csproj.AssemblyReference.cache
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.AssemblyInfoInputs.cache
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.AssemblyInfo.cs
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.csproj.CoreCompileInputs.cache
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net7.0\PrimitiveTypesAndExpressions.exe
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net7.0\PrimitiveTypesAndExpressions.deps.json
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net7.0\PrimitiveTypesAndExpressions.runtimeconfig.json
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net7.0\PrimitiveTypesAndExpressions.dll
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\bin\Debug\net7.0\PrimitiveTypesAndExpressions.pdb
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.dll
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\refint\PrimitiveTypesAndExpressions.dll
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.pdb
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\PrimitiveTypesAndExpressions.genruntimeconfig.cache
+E:\Programowanie\4.Nauka\c-sharp\PrimitiveTypesAndExpressions\PrimitiveTypesAndExpressions\obj\Debug\net7.0\ref\PrimitiveTypesAndExpressions.dll
